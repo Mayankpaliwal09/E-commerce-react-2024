@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayankpaliwal09/E-commerce-react-2024.git"
+  },
+  "author": "mayank paliwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayankpaliwal09/E-commerce-react-2024/issues"
+  },
+  "homepage": "https://github.com/Mayankpaliwal09/E-commerce-react-2024#readme"
+}
